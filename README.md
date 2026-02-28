@@ -54,25 +54,6 @@ No frameworks or libraries used.
 
 ---
 
-## 📂 Project Structure
-
-
-/
-└ index.html
-└ style.css
-└ script.js
-└ data/
-|-└ types.js
-└ assets/
-|-└ types/
-|-└└ Fire.svg
-|-└└ Water.svg
-|-└└ Grass.svg
-|-└└ etc...
-
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
@@ -80,8 +61,7 @@ No frameworks or libraries used.
 git clone https://github.com/yourusername/pokemon-type-trainer.git
 
 
-2. Open `index.html` in your browser  
-(or use Live Server if using VS Code).
+2. Open `index.html` in your browser (or use Live Server if using VS Code).
 
 ---
 
