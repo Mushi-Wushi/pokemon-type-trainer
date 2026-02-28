@@ -118,6 +118,8 @@ Inspired by Pokémon battle mechanics and type charts.
 
 Built as a personal learning project.
 
+SVG Assets from https://github.com/partywhale/pokemon-type-icons.
+
 ---
 
 ⚡ Gotta train them all.
