@@ -1,7 +1,7 @@
 // Defender type => attacker types that are super effective against it
 export const typeChart = {
    Normal: ["Fighting"],
-   Fire: ["Electric", "Ground", "Rock"],
+   Fire: ["Water", "Ground", "Rock"],
    Water: ["Electric", "Grass"],
    Electric: ["Ground"],
    Grass: ["Fire", "Ice", "Poison", "Flying", "Bug"],
