@@ -58,17 +58,17 @@ No frameworks or libraries used.
 
 
 /
-├── index.html
-├── style.css
-├── script.js
-├── data/
-│ └── types.js
-└── assets/
-└── types/
-├── Fire.svg
-├── Water.svg
-├── Grass.svg
-└── etc...
+└ index.html
+└ style.css
+└ script.js
+└ data/
+|-└ types.js
+└ assets/
+|-└ types/
+|-└└ Fire.svg
+|-└└ Water.svg
+|-└└ Grass.svg
+|-└└ etc...
 
 
 ---
