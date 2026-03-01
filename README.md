@@ -11,7 +11,7 @@
 
 **🎀 Learn Pokémon type effectiveness in a fun, colorful, and interactive way!**
 
-[🌐 Live Demo](PASTE_YOUR_LIVE_DEMO_LINK) • [📂 GitHub Repo](PASTE_YOUR_GITHUB_REPO_LINK)
+[📂 GitHub Repo](https://github.com/Mushi-Wushi/pokemon-type-trainer)
 
 </div>
 
