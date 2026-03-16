@@ -216,13 +216,6 @@ Through this project, I learned how to:
 
 ---
 
-## 🔗 Live Demo + GitHub Link
-
-* **Live Demo:** [Add your live demo link here](PASTE_YOUR_LIVE_DEMO_LINK)
-* **GitHub Repository:** [Add your GitHub repo link here](PASTE_YOUR_GITHUB_REPO_LINK)
-
----
-
 ## 🧰 What libraries/tools you should add next
 
 * **Vite** – faster development workflow
