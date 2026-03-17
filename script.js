@@ -186,12 +186,6 @@ function showScreen(name) {
 function renderHighScore() {
    if (!highScoreWrap || !highScoreEl) return;
 
-   // Uncomment if you want to show only after one completed run:
-   // if (!state.hasPlayed) {
-   //   highScoreWrap.classList.add("hidden");
-   //   return;
-   // }
-
    const mode = modeSelect ? modeSelect.value : state.mode;
    highScoreEl.textContent = String(getHighScore(mode));
    highScoreWrap.classList.remove("hidden");
